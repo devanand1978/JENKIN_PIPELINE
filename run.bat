@@ -1,0 +1,1 @@
+pytest -rA .\test_calculator.py -m calc --html=CalCReport.html
